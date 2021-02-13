@@ -14,6 +14,8 @@
 
 ## ⚠️ Batasan Aplikasi
 
+<img src="assets/genus.jpg">
+
 Citra yang dapat diklasifikasikan oleh sistem hanya citra 5 genus tanaman anggrek yang umum dibudidayakan, yaitu Cattleya, Dendrobium, Oncidium, Phalaenopsis dan Vanda. Bentuk dan warna daun menjadi fokus utama citra. Selain itu citra memiliki pencahayaan yang baik, sudut yang tidak terlalu atas maupun bawah, serta latar belakang yang tidak terlalu ramai (noise).
 
 ## 🌐 Demo Aplikasi
