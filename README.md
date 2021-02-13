@@ -12,11 +12,24 @@
 
 ---
 
+## 🔍 Masalah di Lapangan
+
+1. Pembudidaya anggrek pemula belum dapat memaksimalkan proses budidaya anggrek, sehingga anggrek tidak tumbuh dan berbunga  dengan optimal (nilai utama dari anggrek).
+2. Tidak banyak pakar anggrek yang dapat ditemui sehari-hari, dan waktu yang terbatas antara pakar maupun pembudidaya anggrek pemula, serta literatur yang sulit dijangkau.
+3. Setiap genus (marga) anggrek mempunyai tata cara budidaya yang berbeda, sehingga perlu diketahui informasi genus dari anggreknya terlebih dahulu sebelum dibudidayakan.
+
+## 🚀 Solusi: Deep Learning
+
+Klasifikasi citra genus tanaman anggrek menggunakan teknologi Deep Learning - Convolutional Neural Network (CNN) dapat membantu pembudidaya anggrek pemula dalam mengidentifikasi genus tanaman anggek.
+
 ## ⚠️ Batasan Aplikasi
 
 <img src="assets/genus.jpg" width=500>
 
-Citra yang dapat diklasifikasikan oleh sistem hanya citra 5 genus tanaman anggrek yang umum dibudidayakan, yaitu Cattleya, Dendrobium, Oncidium, Phalaenopsis dan Vanda. Bentuk dan warna daun menjadi fokus utama citra. Selain itu citra memiliki pencahayaan yang baik, sudut yang tidak terlalu atas maupun bawah, serta latar belakang yang tidak terlalu ramai (noise).
+Citra yang dapat diklasifikasikan oleh sistem hanya citra 5 genus tanaman anggrek yang umum dibudidayakan, yaitu Cattleya, Dendrobium, Oncidium, Phalaenopsis dan Vanda. Citra memiliki kriteria sebagai berikut: 
+1. Citra tanaman anggrek masih berusia muda, bentuk dan warna daun menjadi fokus utama citra.
+2. Citra tanaman anggrek memiliki pencahayaan yang baik dan sudut yang tidak terlalu atas maupun bawah.
+3. Citra tanaman anggrek memiliki latar belakang yang tidak terlalu ramai (tidak terlalu noise).
 
 ## 🌐 Demo Aplikasi
 
