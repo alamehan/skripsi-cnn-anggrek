@@ -6,7 +6,6 @@
 
 <p align="center">
     <a href="http://anggrek-classifier.herokuapp.com/"><img src="https://img.shields.io/badge/project%20site-open-brightgreen"></a>
-    <a href="https://github.com/alamehan/deep-learning-cnn-simplified"><img src="https://img.shields.io/badge/project%20reference-open-brightgreen"></a>
     <a href="https://alamehan.github.io/"><img src="https://img.shields.io/badge/author-alamehan.github.io-blue"></a>
 </p>
 
